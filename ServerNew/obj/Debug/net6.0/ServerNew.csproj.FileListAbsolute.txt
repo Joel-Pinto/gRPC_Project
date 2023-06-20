@@ -1,0 +1,154 @@
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\appsettings.json
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\ServerNew.exe
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\ServerNew.deps.json
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\ServerNew.runtimeconfig.json
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\ServerNew.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\ServerNew.pdb
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\ServerNew.csproj.AssemblyReference.cache
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\ServerNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\ServerNew.AssemblyInfoInputs.cache
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\ServerNew.AssemblyInfo.cs
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\ServerNew.csproj.CoreCompileInputs.cache
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\ServerNew.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\scopedcss\bundle\ServerNew.styles.css
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\ServerNew.csproj.CopyComplete
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\ServerNew.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\refint\ServerNew.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\ServerNew.pdb
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\ServerNew.genruntimeconfig.cache
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\obj\Debug\net6.0\ref\ServerNew.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Humanizer.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\joelb\source\repos\gRPC_Project\ServerNew\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\appsettings.json
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\ServerNew.exe
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\ServerNew.deps.json
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\ServerNew.runtimeconfig.json
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\ServerNew.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\ServerNew.pdb
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Humanizer.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\ServerNew.csproj.AssemblyReference.cache
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\ServerNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\ServerNew.AssemblyInfoInputs.cache
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\ServerNew.AssemblyInfo.cs
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\ServerNew.csproj.CoreCompileInputs.cache
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\ServerNew.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\scopedcss\bundle\ServerNew.styles.css
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\ServerNew.csproj.CopyComplete
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\ServerNew.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\refint\ServerNew.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\ServerNew.pdb
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\ServerNew.genruntimeconfig.cache
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ServerNew\obj\Debug\net6.0\ref\ServerNew.dll

@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+option csharp_namespace = "ClientNew";
+
+
+
+service SendShow {
+
+  rpc LoadShow (LoadShownRequest) returns (stream ShowReply);	
+  rpc GetShowInfo (ShowRequest) returns (ShowReply);
+  rpc AddShowInfo (AddShowRequest) returns (AddShowReply);
+}
+
+//Request by the client
+message ShowRequest {
+  int32 RequestedShow = 1;
+}
+
+//Reply from the client
+message ShowReply {
+	string Name = 1;
+	string Synopse = 2;
+	string StartDate = 3;
+	string EndDate = 4;
+	bool HasSeen = 5;
+	int32 ID = 6;
+}
+
+message AddShowRequest {
+	string Name = 1;
+	string Synopse = 2;
+	string StartDate = 3;
+	string EndDate = 4;
+	bool HasSeen = 5;
+}
+
+message AddShowReply {
+	string ReplyMessage = 1;
+}
+
+message LoadShownRequest {
+	int32 ID_Theater = 1;
+}

@@ -1,0 +1,2 @@
+obj\Debug\net6.0-windows\Protos/Reference.cs \
+obj\Debug\net6.0-windows\Protos/ReferenceGrpc.cs: Protos/Reference.proto

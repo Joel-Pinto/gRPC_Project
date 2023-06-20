@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "ServerNew";
+
+service SendReference {
+
+  rpc GetReferenceInfo (ReferenceRequest) returns (ReferenceReply);
+}
+
+//Request by the client
+message ReferenceRequest {
+  int32 RequestedReference = 1;
+}
+
+//Reply from the client
+message ReferenceReply {
+	int32 ID = 1;
+	int32 Reference = 2;
+	string Name = 3;
+}

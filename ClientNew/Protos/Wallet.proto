@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "ClientNew";
+
+
+service SendWalletInfo {
+
+  rpc UpDateWallet (UpdateRequest) returns (UpdateReply);
+}
+
+message UpdateRequest {
+	int32 UserId = 1;
+}
+
+message UpdateReply {
+	double WalletFunds = 1;
+}

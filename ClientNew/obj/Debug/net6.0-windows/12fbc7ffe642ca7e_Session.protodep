@@ -1,0 +1,2 @@
+obj\Debug\net6.0-windows\Protos/Session.cs \
+obj\Debug\net6.0-windows\Protos/SessionGrpc.cs: Protos/Session.proto

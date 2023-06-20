@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+option csharp_namespace = "ClientNew";
+
+service SendUser {
+
+  rpc GetUserInfo (UserRequest) returns (UserReply);
+  rpc InsertUser (InsertUserRequest) returns (InsertUserReply);
+  rpc VerifyUser (UserVerifyRequest) returns (UserVerifyReply);
+}
+
+//Request by the client
+message UserRequest {
+  int32 requestedUser = 1;
+}
+
+//Reply from the client
+message UserReply {
+	int32 ID = 1;
+	string Name = 2;
+	string UserName = 3;
+	string Location = 4;
+	int32 Age = 5;
+
+	bool IsInserted = 6;
+}
+
+message InsertUserRequest {
+	string Name = 1;
+	string UserName = 2;
+	string Location = 3;
+	int32 Age = 4;
+	int32 Role = 5;
+}
+
+message InsertUserReply {
+	bool IsInserted = 1;
+}
+
+message UserVerifyRequest {
+	string Username = 1;
+}
+
+message UserVerifyReply {
+	bool DoesExist = 1;
+	int32 UserID = 2;
+}

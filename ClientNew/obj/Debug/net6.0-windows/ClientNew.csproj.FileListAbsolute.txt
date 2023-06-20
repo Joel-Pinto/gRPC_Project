@@ -1,0 +1,60 @@
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\bin\Debug\net6.0-windows\ClientNew.exe
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\bin\Debug\net6.0-windows\ClientNew.deps.json
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\bin\Debug\net6.0-windows\ClientNew.runtimeconfig.json
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\bin\Debug\net6.0-windows\ClientNew.dll
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\bin\Debug\net6.0-windows\ClientNew.pdb
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.csproj.AssemblyReference.cache
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.MainPage.resources
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.csproj.GenerateResource.cache
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.AssemblyInfoInputs.cache
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.AssemblyInfo.cs
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.csproj.CoreCompileInputs.cache
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.dll
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\refint\ClientNew.dll
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.pdb
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.genruntimeconfig.cache
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ref\ClientNew.dll
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.Views.AddHostView.resources
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.Views.BoughtTicketView.resources
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.Views.SearchView.resources
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.csproj.CopyComplete
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.Views.TheaterDetails.resources
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\bin\Debug\net6.0-windows\Tulpep.NotificationWindow.dll
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.Views.LoginView.resources
+C:\Users\joelb\source\repos\gRPC_Project\ClientNew\obj\Debug\net6.0-windows\ClientNew.Views.RegistarView.resources
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\bin\Debug\net6.0-windows\ClientNew.exe
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\bin\Debug\net6.0-windows\ClientNew.deps.json
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\bin\Debug\net6.0-windows\ClientNew.runtimeconfig.json
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\bin\Debug\net6.0-windows\ClientNew.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\bin\Debug\net6.0-windows\ClientNew.pdb
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\bin\Debug\net6.0-windows\Tulpep.NotificationWindow.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.csproj.AssemblyReference.cache
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.Views.AddHostView.resources
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.Views.BoughtTicketView.resources
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.Views.LoginView.resources
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.MainPage.resources
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.Views.RegistarView.resources
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.Views.SearchView.resources
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.Views.TheaterDetails.resources
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.csproj.GenerateResource.cache
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.AssemblyInfoInputs.cache
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.AssemblyInfo.cs
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.csproj.CoreCompileInputs.cache
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.csproj.CopyComplete
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\refint\ClientNew.dll
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.pdb
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ClientNew.genruntimeconfig.cache
+C:\Users\joelb\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Terceiro Ano\2 Semestre\Sistemas Distribuidos\Trabalho\grPC_Project JoelP BrunoM\ClientNew\obj\Debug\net6.0-windows\ref\ClientNew.dll

@@ -1,0 +1,40 @@
+syntax = "proto3";
+
+option csharp_namespace = "ClientNew";
+
+
+service SendTheater {
+
+  rpc LoadTheater (TheaterLoadRequest) returns (stream TheaterReply);
+  rpc GetTheaterInfo (TheaterRequest) returns (TheaterReply);
+  rpc AddTheaterInfo (AddTheaterRequest) returns (AddTheaterReply);
+}
+
+//Request by the client
+message TheaterRequest {
+  int32 requestedTheater = 1;
+}
+
+//Reply from the client
+message TheaterReply {
+	string TheaterName = 1;
+	string Location = 2;
+	int32 ID = 3;
+	int32 Contact = 4;
+	string Address = 5;
+}
+
+message AddTheaterRequest {
+	string NameTheater = 1;
+	string Location = 2;
+	int32 Contact = 3;
+	string Address = 4;
+}
+
+message AddTheaterReply {
+	string ReplyMessage = 1;
+}
+
+message TheaterLoadRequest {
+
+}

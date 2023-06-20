@@ -1,0 +1,48 @@
+syntax = "proto3";
+
+option csharp_namespace = "ClientNew";
+
+package duplex;
+
+service SendSession {
+
+  rpc SessionByShow (LoadByShowRequest) returns (stream SessionReply);
+  rpc LoadSession (SessionLoadRequest) returns (stream SessionReply);
+  rpc GetSessionInfo (SessionRequest) returns (SessionReply);
+  rpc AddSessionInfo (AddSessionRequest) returns (AddSessionReply);
+}
+
+//Request by the client
+message SessionRequest {
+  int32 RequestedSession = 1;
+}
+
+//Reply from the client
+message SessionReply {
+	int32 ID = 1;
+	string Date = 2;
+	string StartHour =3;
+	string EndHour =4;
+	int32 TotalSeats = 5;
+	int32 AvailableSeats = 6;
+}
+
+message AddSessionRequest {
+	string Date = 1;
+	string StartHour = 2;
+	string EndHour = 3;
+	int32 TotalSeats = 4;
+	int32 AvailableSeats = 5;
+}
+
+message AddSessionReply {
+	string ReplyMessage = 1;
+}
+
+message SessionLoadRequest {
+
+}
+
+message LoadByShowRequest {
+	int32 ID_Show = 1;
+}

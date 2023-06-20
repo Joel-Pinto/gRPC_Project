@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Theater.cs \
+obj\Debug\net6.0\Protos/TheaterGrpc.cs: Protos/Theater.proto

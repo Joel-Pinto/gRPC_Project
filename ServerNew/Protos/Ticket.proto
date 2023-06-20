@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+option csharp_namespace = "ServerNew";
+
+
+service SendTicket {
+
+  rpc GetTicketInfo (TicketRequest) returns (TicketReply);
+  rpc BuyTicket(BuyTicketRequest) returns (BuyTicketReply);
+  rpc LoadTickets (LoadTicketsRequest) returns (stream LoadTicketsReply);
+}
+
+//Request by the client
+message TicketRequest {
+  int32 RequestedTicket = 1;
+}
+
+//Reply from the client
+message TicketReply {
+	int32 ID = 1;
+	string Date = 2;
+	string Hour = 3;
+	int32 NumberTickets = 4;
+	int32 IsItPaid = 5;
+}
+
+message BuyTicketRequest {
+	int32 ID_Session = 1;
+	int32 NumberOfTickets = 2;
+	int32 UserID = 3;
+}
+
+message BuyTicketReply {
+	bool Success = 1;
+}
+
+message LoadTicketsRequest {
+	int32 userID = 1;
+}
+
+message LoadTicketsReply {
+	string ShowName = 1;
+	string Date = 2;
+	string Hour = 3;
+	int32 NumbOfTickets = 4;
+	int32 IsItPaid = 5;
+}
